@@ -41,3 +41,8 @@ Host machine:
 localhost:8501
 ```
 
+## TODO 
+
+- Look at implementing these:
+    - https://huggingface.co/visheratin/MC-LLaVA-3b
+    - https://huggingface.co/llava-hf/llava-1.5-7b-hf
