@@ -43,6 +43,7 @@ localhost:8501
 
 ## TODO 
 
+- Upgrade transformers version to include gemma 2. Save model locally.
 - Look at implementing these:
     - https://huggingface.co/google/paligemma-3b-pt-224 (or larger input image size)
     - https://huggingface.co/visheratin/MC-LLaVA-3b
